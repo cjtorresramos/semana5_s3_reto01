@@ -1,0 +1,43 @@
+.navegacion{
+    border-top: 0.1rem solid black;
+}
+
+.navegacion nav ul li{
+    list-style: none;
+}
+
+.navegacion nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.categorias-productos{
+    display: flex; 
+    justify-content: space-between; 
+    text-align: center;
+}
+
+.categorias-productos div a{
+    text-decoration: none;
+    color: black;
+}
+
+.pie-pagina{
+    display: flex; 
+    justify-content: space-between;
+    border-top: 0.1rem solid black;
+}
+
+.pie-pagina div nav a{
+    text-decoration: none;
+    color: black;
+}
+
+.entrada-blog-secu ul li{
+    list-style: none;
+}
+
+.entrada-blog-secu ul li a{
+    text-decoration: none;
+    color: black;
+}
